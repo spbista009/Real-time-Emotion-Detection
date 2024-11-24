@@ -37,13 +37,13 @@ Result Display: Draws a bounding box around the face and labels it with the dete
 
 The system can detect the following emotions:
 
-Happy
-Sad
-Angry
-Neutral
-Fear
-Surprise
-Disgust
+- Happy
+- Sad
+- Angry
+- Neutral
+- Fear
+- Surprise
+- Disgust
 
 # Notes
 
