@@ -24,8 +24,8 @@ This project performs real-time emotion detection using the DeepFace library and
 
 # File Structure
 
-emotion_detection_webcam.py: Script for real-time emotion detection via webcam.
-README.md: Documentation for the project.
+- emotion_detection_webcam.py: Script for real-time emotion detection via webcam.
+- README.md: Documentation for the project.
 
 # How It Works
 
