@@ -29,9 +29,9 @@ This project performs real-time emotion detection using the DeepFace library and
 
 # How It Works
 
-Face Detection: Uses Haar Cascade to detect faces in the video frame.
-Emotion Analysis: Passes the detected face to DeepFace to predict the dominant emotion.
-Result Display: Draws a bounding box around the face and labels it with the detected emotion.
+- Face Detection: Uses Haar Cascade to detect faces in the video frame.
+- Emotion Analysis: Passes the detected face to DeepFace to predict the dominant emotion.
+- Result Display: Draws a bounding box around the face and labels it with the detected emotion.
 
 # Supported Emotions
 
